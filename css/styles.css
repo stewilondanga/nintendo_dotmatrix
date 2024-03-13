@@ -601,18 +601,18 @@ body {
   background: #30345a;
 }
 
-/*.l-6 {
-	position: absolute;
-	top: 36px;
-	left: 217px;
-	z-index: 2;
-	width: 20px;
-	height: 3px;
-	border: none;
-	background: #543363;
+.l-6 {
+  position: absolute;
+  top: 36px;
+  left: 217px;
+  z-index: 2;
+  width: 20px;
+  height: 3px;
+  border: none;
+  background: #543363;
 }
 
-.l-7 {
+/*.l-7 {
 	position: absolute;
 	top: 42px;
 	left: 217px;
