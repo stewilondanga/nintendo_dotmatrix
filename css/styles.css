@@ -286,21 +286,21 @@ body {
   opacity: 0.6;
 }
 
-/*.display-2 {
-	position: absolute;
-	top: 21px;
-	left: 43px;
-	z-index: 2;
-	width: 147px;
-	height: 134px;
-	border-top: 1px solid #394b21;
-	border-right: 1px solid #36472f;
-	background: #5f953d;
-	box-shadow: inset -2px 5px 10px #2a421a;
-	opacity: 0.5;
+.display-2 {
+  position: absolute;
+  top: 21px;
+  left: 43px;
+  z-index: 2;
+  width: 147px;
+  height: 134px;
+  border-top: 1px solid #394b21;
+  border-right: 1px solid #36472f;
+  background: #5f953d;
+  box-shadow: inset -2px 5px 10px #2a421a;
+  opacity: 0.5;
 }
 
-.display-2 h1 {
+/*.display-2 h1 {
 	text-align: center;
 	margin-top: 40%;
 	font-size: 12px;
