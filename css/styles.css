@@ -336,11 +336,11 @@ body {
   left: 43px;
 }
 
-/*#DEBUGGER {
-	visibility: hidden;
+#DEBUGGER {
+  visibility: hidden;
 }
 
-.start:hover,
+/*.start:hover,
 .pause:hover {
 	cursor: pointer;
 }
