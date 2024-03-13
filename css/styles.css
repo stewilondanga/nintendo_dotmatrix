@@ -194,18 +194,18 @@ body {
     inset 0 3px 7px #919496, inset 0 4px 10px white;
 }
 
-/*.wrapper p {
-	position: relative;
-	top: 511px;
-	left: 534px;
-	display: inline-block;
-	color: white;
-	font-weight: bold;
-	font-size: 26px;
-	font-family: "Arial";
+.wrapper p {
+  position: relative;
+  top: 511px;
+  left: 534px;
+  display: inline-block;
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+  font-family: "Arial";
 }
 
-.gameboy p {
+/*.gameboy p {
 	position: absolute;
 	top: 45px;
 	left: 82px;
