@@ -630,10 +630,9 @@ body {
   border: none;
 }
 
-/*.click {
-}
+.click {}
 
-@keyframes light {
+/*@keyframes light {
 	0% {
 		box-shadow: 0 0 0px #ffa300;
 	}
