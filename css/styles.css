@@ -300,14 +300,14 @@ body {
   opacity: 0.5;
 }
 
-/*.display-2 h1 {
-	text-align: center;
-	margin-top: 40%;
-	font-size: 12px;
-	font-family: "Press Start 2P", cursive;
+.display-2 h1 {
+  text-align: center;
+  margin-top: 40%;
+  font-size: 12px;
+  font-family: "Press Start 2P", cursive;
 }
 
-#splash {
+/*#splash {
 	position: absolute;
 	top: 0px;
 	left: 0px;
