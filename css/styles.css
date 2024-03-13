@@ -325,11 +325,11 @@ body {
   transition: opacity 1s;
 }
 
-/*.box--hidden {
-	opacity: 0;
+.box--hidden {
+  opacity: 0;
 }
 
-#LCD {
+/*#LCD {
 	display: none;
 	position: absolute;
 	top: 21px;
