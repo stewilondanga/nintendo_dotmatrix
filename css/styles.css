@@ -446,16 +446,16 @@ body {
   transform: rotate(64deg);
 }
 
-/*.speaker li {
-	margin-bottom: 8px;
-	width: 42px;
-	height: 6px;
-	border-radius: 10px;
-	box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7), inset 2px 1px 3px #5b5a53,
-		inset 1px -1px black;
+.speaker li {
+  margin-bottom: 8px;
+  width: 42px;
+  height: 6px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7), inset 2px 1px 3px #5b5a53,
+    inset 1px -1px black;
 }
 
-.stick {
+/*.stick {
 	position: absolute;
 	top: 252px;
 	left: 14px;
