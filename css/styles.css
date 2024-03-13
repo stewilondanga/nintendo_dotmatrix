@@ -632,19 +632,21 @@ body {
 
 .click {}
 
-/*@keyframes light {
-	0% {
-		box-shadow: 0 0 0px #ffa300;
-	}
-	50% {
-		box-shadow: 0 0 24px #ffa300;
-	}
-	100% {
-		box-shadow: 0 0 0px #ffa300;
-	}
+@keyframes light {
+  0% {
+    box-shadow: 0 0 0px #ffa300;
+  }
+
+  50% {
+    box-shadow: 0 0 24px #ffa300;
+  }
+
+  100% {
+    box-shadow: 0 0 0px #ffa300;
+  }
 }
 
-.ds {
+/*.ds {
 	position: relative;
 	z-index: 10;
 	top: 300px;
