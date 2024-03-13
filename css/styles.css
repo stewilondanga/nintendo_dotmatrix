@@ -320,12 +320,12 @@ body {
   box-shadow: inset -2px 5px 10px #2a421a;
 }
 
-/*.splash {
-	opacity: 1;
-	transition: opacity 1s;
+.splash {
+  opacity: 1;
+  transition: opacity 1s;
 }
 
-.box--hidden {
+/*.box--hidden {
 	opacity: 0;
 }
 
