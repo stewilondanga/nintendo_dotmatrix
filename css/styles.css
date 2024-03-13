@@ -360,13 +360,14 @@ body {
   animation: light linear 3s infinite;
 }
 
-/*.buttons-2 li span {
-	font-family: "Squada One";
-	position: absolute;
-	color: #666;
-	transform: rotate(-90deg) translate(-8px, 0) scaleY(0.5);
+.buttons-2 li span {
+  font-family: "Squada One";
+  position: absolute;
+  color: #666;
+  transform: rotate(-90deg) translate(-8px, 0) scaleY(0.5);
 }
-.buttons li span {
+
+/*.buttons li span {
 	transform: rotate(-90deg) translate(-8px, 40px) scaleY(0.5);
 	font-family: "Squada One";
 	position: absolute;
