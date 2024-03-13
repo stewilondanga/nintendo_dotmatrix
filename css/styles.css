@@ -567,19 +567,19 @@ body {
   background-image: linear-gradient(-134deg, #656666, #2e3231 60%);
 }
 
-/*.circle li {
-	position: absolute;
-	top: 2px;
-	left: 2px;
-	width: 16px;
-	height: 16px;
-	border: 1px solid rgba(39, 42, 41, 0.91);
-	border-radius: 16px;
-	background: #4b4e4d;
-	box-shadow: inset 2px -1px 8px #868787, inset 3px -1px 10px black;
+.circle li {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 16px;
+  height: 16px;
+  border: 1px solid rgba(39, 42, 41, 0.91);
+  border-radius: 16px;
+  background: #4b4e4d;
+  box-shadow: inset 2px -1px 8px #868787, inset 3px -1px 10px black;
 }
 
-.l-4 {
+/*.l-4 {
 	position: absolute;
 	top: 36px;
 	left: 26px;
