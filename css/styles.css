@@ -273,20 +273,20 @@ body {
   opacity: 0.6;
 }
 
-/*.l-3 {
-	position: absolute;
-	top: -8px;
-	right: 20px;
-	width: 3px;
-	height: 19px;
-	border: none;
-	border-radius: 5px 5px 0 0px;
-	background-image: -webkit-linear-gradient(#a9b2af, #87908d 90%);
-	background-image: linear-gradient(#a9b2af, #87908d 90%);
-	opacity: 0.6;
+.l-3 {
+  position: absolute;
+  top: -8px;
+  right: 20px;
+  width: 3px;
+  height: 19px;
+  border: none;
+  border-radius: 5px 5px 0 0px;
+  background-image: -webkit-linear-gradient(#a9b2af, #87908d 90%);
+  background-image: linear-gradient(#a9b2af, #87908d 90%);
+  opacity: 0.6;
 }
 
-.display-2 {
+/*.display-2 {
 	position: absolute;
 	top: 21px;
 	left: 43px;
