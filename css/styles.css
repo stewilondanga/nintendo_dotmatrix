@@ -590,18 +590,18 @@ body {
   background: #543363;
 }
 
-/*.l-5 {
-	position: absolute;
-	top: 42px;
-	left: 26px;
-	z-index: 2;
-	width: 51px;
-	height: 3px;
-	border: none;
-	background: #30345a;
+.l-5 {
+  position: absolute;
+  top: 42px;
+  left: 26px;
+  z-index: 2;
+  width: 51px;
+  height: 3px;
+  border: none;
+  background: #30345a;
 }
 
-.l-6 {
+/*.l-6 {
 	position: absolute;
 	top: 36px;
 	left: 217px;
