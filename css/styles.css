@@ -367,13 +367,14 @@ body {
   transform: rotate(-90deg) translate(-8px, 0) scaleY(0.5);
 }
 
-/*.buttons li span {
-	transform: rotate(-90deg) translate(-8px, 40px) scaleY(0.5);
-	font-family: "Squada One";
-	position: absolute;
-	color: #666;
+.buttons li span {
+  transform: rotate(-90deg) translate(-8px, 40px) scaleY(0.5);
+  font-family: "Squada One";
+  position: absolute;
+  color: #666;
 }
-.buttons {
+
+/*.buttons {
 	position: absolute;
 	top: 242px;
 	left: 179px;
