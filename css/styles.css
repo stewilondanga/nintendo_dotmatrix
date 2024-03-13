@@ -340,12 +340,12 @@ body {
   visibility: hidden;
 }
 
-/*.start:hover,
+.start:hover,
 .pause:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
-.diod {
+/*.diod {
 	position: absolute;
 	top: 61px;
 	left: 12px;
