@@ -433,13 +433,13 @@ body {
   color: #6f7875;
 }
 
-/*.buttons-2 li:last-child {
-	position: absolute;
-	bottom: 7px;
-	left: 20px;
+.buttons-2 li:last-child {
+  position: absolute;
+  bottom: 7px;
+  left: 20px;
 }
 
-.speaker {
+/*.speaker {
 	position: absolute;
 	top: 344px;
 	left: 174px;
