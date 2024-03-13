@@ -385,23 +385,21 @@ body {
   transform: rotate(64deg);
 }
 
-/*.buttons li {
-	transition: ease-in-out 0.3s;
-	width: 30px;
-	height: 30px;
-	border: 1px solid rgba(68, 32, 54, 1);
-	border-radius: 100%;
-	background-image: -webkit-linear-gradient(
-		6deg,
-		rgba(133, 50, 108, 0.61),
-		#6d1851 89%
-	);
-	background-image: linear-gradient(6deg, rgba(133, 50, 108, 0.61), #6d1851 89%);
-	box-shadow: inset 1px 2px 4px #a87493, -1px -1px 2px #000000,
-		3px 6px 7px rgba(125, 136, 134, 0.79);
+.buttons li {
+  transition: ease-in-out 0.3s;
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgba(68, 32, 54, 1);
+  border-radius: 100%;
+  background-image: -webkit-linear-gradient(6deg,
+      rgba(133, 50, 108, 0.61),
+      #6d1851 89%);
+  background-image: linear-gradient(6deg, rgba(133, 50, 108, 0.61), #6d1851 89%);
+  box-shadow: inset 1px 2px 4px #a87493, -1px -1px 2px #000000,
+    3px 6px 7px rgba(125, 136, 134, 0.79);
 }
 
-.buttons li:first-child {
+/*.buttons li:first-child {
 	margin-bottom: 17px;
 }
 .buttons li:hover {
