@@ -329,14 +329,14 @@ body {
   opacity: 0;
 }
 
-/*#LCD {
-	display: none;
-	position: absolute;
-	top: 21px;
-	left: 43px;
+#LCD {
+  display: none;
+  position: absolute;
+  top: 21px;
+  left: 43px;
 }
 
-#DEBUGGER {
+/*#DEBUGGER {
 	visibility: hidden;
 }
 
