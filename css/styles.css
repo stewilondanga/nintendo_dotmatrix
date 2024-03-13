@@ -403,13 +403,14 @@ body {
   margin-bottom: 17px;
 }
 
-/*.buttons li:hover {
-	transition: ease-in-out 0.3s;
-	box-shadow: inset 0px 0px 0px #a87493, -1px -1px 2px #000000,
-		0px 0px 0px rgba(125, 136, 134, 0.79);
-	cursor: pointer;
+.buttons li:hover {
+  transition: ease-in-out 0.3s;
+  box-shadow: inset 0px 0px 0px #a87493, -1px -1px 2px #000000,
+    0px 0px 0px rgba(125, 136, 134, 0.79);
+  cursor: pointer;
 }
-.buttons-2 {
+
+/*.buttons-2 {
 	position: absolute;
 	top: 370px;
 	left: 120px;
