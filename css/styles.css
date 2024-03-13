@@ -655,20 +655,20 @@ body {
   font-sise: 15pxl;
 }
 
-/*@media screen and (max-width: 500px) {
-	.gameboy {
-		position: absolute;
-		top: 20%;
-		left: 15%;
-		width: 265px;
-		height: 433px;
-		border: 2px solid rgb(153, 153, 153);
-		border-radius: 10px 10px 77px 10px;
-		background-image: -webkit-linear-gradient(#adb6b3, #bec2c1 50%);
-		background-image: linear-gradient(#adb6b3, #bec2c1 50%);
-		box-shadow: -5px 6px 20px rgba(0, 0, 0, 0.37),
-			-21px 17px 65px rgba(0, 0, 0, 0.46), inset -3px 0 4px #8e918e,
-			inset -7px 0 7px #dfdfdf, inset 1px 0 3px #66696a, inset 3px 0 10px #616465,
-			inset 0 3px 7px #919496, inset 0 4px 10px white;
-	}
+@media screen and (max-width: 500px) {
+  .gameboy {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    width: 265px;
+    height: 433px;
+    border: 2px solid rgb(153, 153, 153);
+    border-radius: 10px 10px 77px 10px;
+    background-image: -webkit-linear-gradient(#adb6b3, #bec2c1 50%);
+    background-image: linear-gradient(#adb6b3, #bec2c1 50%);
+    box-shadow: -5px 6px 20px rgba(0, 0, 0, 0.37),
+      -21px 17px 65px rgba(0, 0, 0, 0.46), inset -3px 0 4px #8e918e,
+      inset -7px 0 7px #dfdfdf, inset 1px 0 3px #66696a, inset 3px 0 10px #616465,
+      inset 0 3px 7px #919496, inset 0 4px 10px white;
+  }
 }
