@@ -165,12 +165,12 @@ a {
   line-height: 100%;
 }
 
-/*body {
-	background-image: url(https://res.cloudinary.com/dfiultfjp/image/upload/v1680118787/Frame_41_sis4l6.svg);
-	background-size: cover;
+body {
+  background-image: url(https://res.cloudinary.com/dfiultfjp/image/upload/v1680118787/Frame_41_sis4l6.svg);
+  background-size: cover;
 }
 
-@font-face {
+/*@font-face {
 	font-family: "Squada One";
 	font-style: normal;
 	font-weight: 400;
