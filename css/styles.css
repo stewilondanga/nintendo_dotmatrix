@@ -623,14 +623,14 @@ body {
   background: #30345a;
 }
 
-/*.l-8 {
-	position: absolute;
-	width: 100px;
-	height: 2px;
-	border: none;
+.l-8 {
+  position: absolute;
+  width: 100px;
+  height: 2px;
+  border: none;
 }
 
-.click {
+/*.click {
 }
 
 @keyframes light {
