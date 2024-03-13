@@ -29,9 +29,8 @@ toggler.addEventListener("click", function() {
     audio.pause();
   }
 });
-/*
-togglerAgain.addEventListener("click", function () {
-	toggleSplash.classList.add("box--hidden");
-	audio.pause();
+
+togglerAgain.addEventListener("click", function() {
+  toggleSplash.classList.add("box--hidden");
+  audio.pause();
 });
-*/
