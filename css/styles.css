@@ -439,14 +439,14 @@ body {
   left: 20px;
 }
 
-/*.speaker {
-	position: absolute;
-	top: 344px;
-	left: 174px;
-	transform: rotate(64deg);
+.speaker {
+  position: absolute;
+  top: 344px;
+  left: 174px;
+  transform: rotate(64deg);
 }
 
-.speaker li {
+/*.speaker li {
 	margin-bottom: 8px;
 	width: 42px;
 	height: 6px;
