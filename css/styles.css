@@ -410,14 +410,14 @@ body {
   cursor: pointer;
 }
 
-/*.buttons-2 {
-	position: absolute;
-	top: 370px;
-	left: 120px;
-	transform: rotate(-120deg);
+.buttons-2 {
+  position: absolute;
+  top: 370px;
+  left: 120px;
+  transform: rotate(-120deg);
 }
 
-.buttons-2 li {
+/*.buttons-2 li {
 	position: absolute;
 	width: 15px;
 	height: 40px;
