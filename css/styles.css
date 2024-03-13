@@ -205,18 +205,18 @@ body {
   font-family: "Arial";
 }
 
-/*.gameboy p {
-	position: absolute;
-	top: 45px;
-	left: 82px;
-	z-index: 2;
-	color: rgba(255, 255, 255, 0.63);
-	text-transform: uppercase;
-	font-size: 7px;
-	font-family: "Arial";
+.gameboy p {
+  position: absolute;
+  top: 45px;
+  left: 82px;
+  z-index: 2;
+  color: rgba(255, 255, 255, 0.63);
+  text-transform: uppercase;
+  font-size: 7px;
+  font-family: "Arial";
 }
 
-.reflex {
+/*.reflex {
 	position: relative;
 	top: 36px;
 	left: 15px;
