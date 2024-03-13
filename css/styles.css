@@ -345,21 +345,22 @@ body {
   cursor: pointer;
 }
 
-/*.diod {
-	position: absolute;
-	top: 61px;
-	left: 12px;
-	display: block;
-	width: 9px;
-	height: 9px;
-	border: 1px solid #ac774d;
-	border-radius: 50px;
-	background: #e4b443;
-	box-shadow: 0 0 5px #ac774d, -1px 1px 1px rgba(83, 53, 41, 0.99),
-		inset 0 1px 2px #fcb251;
-	animation: light linear 3s infinite;
+.diod {
+  position: absolute;
+  top: 61px;
+  left: 12px;
+  display: block;
+  width: 9px;
+  height: 9px;
+  border: 1px solid #ac774d;
+  border-radius: 50px;
+  background: #e4b443;
+  box-shadow: 0 0 5px #ac774d, -1px 1px 1px rgba(83, 53, 41, 0.99),
+    inset 0 1px 2px #fcb251;
+  animation: light linear 3s infinite;
 }
-.buttons-2 li span {
+
+/*.buttons-2 li span {
 	font-family: "Squada One";
 	position: absolute;
 	color: #666;
