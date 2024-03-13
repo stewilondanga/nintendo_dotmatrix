@@ -234,25 +234,21 @@ body {
     inset -1px 0 2px rgba(255, 255, 255, 0.44);
 }
 
-/*.display {
-	position: absolute;
-	z-index: 3;
-	width: 232px;
-	height: 177px;
-	border-radius: 10px 10px 53px 10px;
-	background-image: -webkit-linear-gradient(
-		46deg,
-		#485055,
-		rgba(143, 151, 156, 0.91) 80%
-	);
-	background-image: linear-gradient(
-		46deg,
-		rgba(72, 80, 85, 0),
-		rgba(143, 151, 156, 0.58) 80%
-	);
+.display {
+  position: absolute;
+  z-index: 3;
+  width: 232px;
+  height: 177px;
+  border-radius: 10px 10px 53px 10px;
+  background-image: -webkit-linear-gradient(46deg,
+      #485055,
+      rgba(143, 151, 156, 0.91) 80%);
+  background-image: linear-gradient(46deg,
+      rgba(72, 80, 85, 0),
+      rgba(143, 151, 156, 0.58) 80%);
 }
 
-.l-1 {
+/*.l-1 {
 	position: absolute;
 	top: 11px;
 	width: 265px;
