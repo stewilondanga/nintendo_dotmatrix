@@ -18,18 +18,18 @@ toggleSplash.addEventListener("transitionend", function() {
     toggleSplash.style.display = "none";
   }
 });
-/*
-toggler.addEventListener("click", function () {
-	if (isHidden()) {
-		toggleSplash.style.removeProperty("display");
-		setTimeout(() => toggleSplash.classList.remove("box--hidden"), 0);
-		audio.play();
-	} else {
-		toggleSplash.classList.add("box--hidden");
-		audio.pause();
-	}
-});
 
+toggler.addEventListener("click", function() {
+  if (isHidden()) {
+    toggleSplash.style.removeProperty("display");
+    setTimeout(() => toggleSplash.classList.remove("box--hidden"), 0);
+    audio.play();
+  } else {
+    toggleSplash.classList.add("box--hidden");
+    audio.pause();
+  }
+});
+/*
 togglerAgain.addEventListener("click", function () {
 	toggleSplash.classList.add("box--hidden");
 	audio.pause();
