@@ -170,16 +170,15 @@ body {
   background-size: cover;
 }
 
-/*@font-face {
-	font-family: "Squada One";
-	font-style: normal;
-	font-weight: 400;
-	src: local("Squada One"), local("SquadaOne-Regular"),
-		url("https://rafaelcastrocouto.github.io/gbonline/Squada One.woff")
-			format("woff");
+@font-face {
+  font-family: "Squada One";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Squada One"), local("SquadaOne-Regular"),
+    url("https://rafaelcastrocouto.github.io/gbonline/Squada One.woff") format("woff");
 }
 
-.gameboy {
+/*.gameboy {
 	position: absolute;
 	top: 35%;
 	left: 42%;
