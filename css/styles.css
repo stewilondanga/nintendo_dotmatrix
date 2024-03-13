@@ -455,17 +455,17 @@ body {
     inset 1px -1px black;
 }
 
-/*.stick {
-	position: absolute;
-	top: 252px;
-	left: 14px;
-	width: 93px;
-	height: 93px;
-	border-radius: 50%;
-	box-shadow: inset -7px 10px 22px #c7cbca, inset 7px -10px 22px #b8b8b8;
+.stick {
+  position: absolute;
+  top: 252px;
+  left: 14px;
+  width: 93px;
+  height: 93px;
+  border-radius: 50%;
+  box-shadow: inset -7px 10px 22px #c7cbca, inset 7px -10px 22px #b8b8b8;
 }
 
-.top {
+/*.top {
 	position: absolute;
 	top: 15px;
 	left: 34px;
