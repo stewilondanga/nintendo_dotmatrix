@@ -11,8 +11,8 @@ const toggler = document.getElementById("start");
 const togglerAgain = document.getElementById("pause");
 const toggleSplash = document.getElementById("splash");
 const isHidden = () => toggleSplash.classList.contains("box--hidden");
-/*const audio = document.getElementById("audio");
-
+const audio = document.getElementById("audio");
+/*
 toggleSplash.addEventListener("transitionend", function () {
 	if (isHidden()) {
 		toggleSplash.style.display = "none";
