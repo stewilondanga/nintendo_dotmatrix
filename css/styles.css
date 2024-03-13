@@ -248,19 +248,19 @@ body {
       rgba(143, 151, 156, 0.58) 80%);
 }
 
-/*.l-1 {
-	position: absolute;
-	top: 11px;
-	width: 265px;
-	height: 3px;
-	border: none;
-	border-radius: 50px;
-	background-image: -webkit-linear-gradient(#87908d, #a9b2af 90%);
-	background-image: linear-gradient(#87908d, #a9b2af 90%);
-	opacity: 0.6;
+.l-1 {
+  position: absolute;
+  top: 11px;
+  width: 265px;
+  height: 3px;
+  border: none;
+  border-radius: 50px;
+  background-image: -webkit-linear-gradient(#87908d, #a9b2af 90%);
+  background-image: linear-gradient(#87908d, #a9b2af 90%);
+  opacity: 0.6;
 }
 
-.l-2 {
+/*.l-2 {
 	position: absolute;
 	top: -8px;
 	left: 20px;
