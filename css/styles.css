@@ -374,18 +374,18 @@ body {
   color: #666;
 }
 
-/*.buttons {
-	position: absolute;
-	top: 242px;
-	left: 179px;
-	padding: 6px;
-	border-radius: 50px;
-	box-shadow: 1px 1px 5px rgba(255, 255, 255, 0.21), -1px -1px 0px #babdbc,
-		inset 0 12px 22px rgba(0, 0, 0, 0.12);
-	transform: rotate(64deg);
+.buttons {
+  position: absolute;
+  top: 242px;
+  left: 179px;
+  padding: 6px;
+  border-radius: 50px;
+  box-shadow: 1px 1px 5px rgba(255, 255, 255, 0.21), -1px -1px 0px #babdbc,
+    inset 0 12px 22px rgba(0, 0, 0, 0.12);
+  transform: rotate(64deg);
 }
 
-.buttons li {
+/*.buttons li {
 	transition: ease-in-out 0.3s;
 	width: 30px;
 	height: 30px;
