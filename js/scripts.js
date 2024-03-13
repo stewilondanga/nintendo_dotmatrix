@@ -6,8 +6,9 @@ var navigate = (function() {
     $('.' + dataName).toggle();
   });
 })();
-/*
+
 const toggler = document.getElementById("start");
+/*
 const togglerAgain = document.getElementById("pause");
 const toggleSplash = document.getElementById("splash");
 const isHidden = () => toggleSplash.classList.contains("box--hidden");
