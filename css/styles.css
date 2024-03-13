@@ -160,12 +160,12 @@ a {
   color: #04d;
 }
 
-/*.cal td {
+.cal td {
   padding: 0 2px;
   line-height: 100%;
 }
 
-body {
+/*body {
 	background-image: url(https://res.cloudinary.com/dfiultfjp/image/upload/v1680118787/Frame_41_sis4l6.svg);
 	background-size: cover;
 }
